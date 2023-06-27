@@ -77,6 +77,10 @@ public class Class1
     {
         spaces[pos] = 'O';
     }
+    /// <summary>
+    /// Main Program
+    /// </summary>
+    /// <param name="args"></param>
 
     public static void Main(string[] args)
     {
